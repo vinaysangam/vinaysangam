@@ -2,7 +2,7 @@
 
 ### ⚙️ Architecting Reliable Data Platforms | 🚀 Scaling Solutions on Azure | 🤖 Driving Intelligent Automation
 
-I am a **Senior Data & AI Engineer** specializing in building scalable, secure, and business-impactful data platforms.  
+I am a **Data & AI Engineer** specializing in building scalable, secure, and business-impactful data platforms.  
 I focus on designing systems that are **performant, resilient, maintainable, and built for the long run** — balancing engineering rigor with real-world practicality.
 
 My experience spans **enterprise-scale data architectures, Azure cloud engineering, AI-driven automation, federal reporting systems, and modern analytics platforms.**
