@@ -80,9 +80,8 @@ My experience spans **enterprise-scale data architectures, Azure cloud engineeri
 ---
 
 ## 📬 Connect With Me
-- 💼 LinkedIn: _add your link_
-- 📧 Email: _optional_
-- 🌐 Portfolio / Blog: _optional_
+- 💼 LinkedIn: https://www.linkedin.com/in/svk0456/
+- 📧 Email: vinay.sangam@outlook.com
 
 ---
 
