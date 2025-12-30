@@ -9,7 +9,7 @@ My experience spans **enterprise-scale data architectures, Azure cloud engineeri
 
 ---
 
-## 👤 Developer Persona (Leadership Mindset)
+## 👤 Professional Focus
 
 - 🧠 Architecture-first thinker — prioritizing clarity and system design before implementation  
 - ⚙️ Passionate about **reliability, robustness, and operational excellence**  
