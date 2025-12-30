@@ -42,9 +42,11 @@ My experience spans **enterprise-scale data architectures, Azure cloud engineeri
 
 ## 🏆 Certifications
 
-- ✅ Microsoft Azure — Data & Cloud Certifications  
-- ✅ Azure Data Engineering / Analytics Certifications  
-- ✅ Additional Enterprise / Industry Certifications  
+- DP-700 – Microsoft Fabric Data Engineer Associate
+- DP-600 – Fabric Analytics Engineer Associate
+- AI-102 – Azure AI Engineer Associate
+- AI-900 – Azure AI Fundamentals
+- GHCP Explorer & GHCP Practitioner (GitHub Copilot)
 
 *(List exact certification names here if you want me to make this precise.)*
 
