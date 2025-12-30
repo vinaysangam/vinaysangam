@@ -48,8 +48,6 @@ My experience spans **enterprise-scale data architectures, Azure cloud engineeri
 - AI-900 – Azure AI Fundamentals
 - GHCP Explorer & GHCP Practitioner (GitHub Copilot)
 
-*(List exact certification names here if you want me to make this precise.)*
-
 ---
 
 ## 🥇 Key Achievements
