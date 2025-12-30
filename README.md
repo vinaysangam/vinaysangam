@@ -1,4 +1,4 @@
-# 👨‍💻 VK — Senior Data & AI Engineer
+# 👨‍💻 VK — Data & AI Engineer
 
 ### ⚙️ Architecting Reliable Data Platforms | 🚀 Scaling Solutions on Azure | 🤖 Driving Intelligent Automation
 
